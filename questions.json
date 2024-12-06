@@ -1,0 +1,171 @@
+[
+    {
+      "question": "What is the shape of a football used in professional matches?",
+      "options": ["Circular", "Oval", "Square", "Triangular"],
+      "answer": "Circular",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Which country won the FIFA World Cup in 2018?",
+      "options": ["Brazil", "France", "Germany", "Croatia"],
+      "answer": "France",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How many players are there in a football team on the field at one time?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "11",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What does FIFA stand for?",
+      "options": [
+        "Federation Internationale de Football Association",
+        "Football International Federation Association",
+        "Football Is For All",
+        "Federation of International Footballers Association"
+      ],
+      "answer": "Federation Internationale de Football Association",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Which football player is nicknamed 'The Goat'?",
+      "options": ["Cristiano Ronaldo", "Lionel Messi", "Pele", "Diego Maradona"],
+      "answer": "Lionel Messi",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Which football club has won the most UEFA Champions League titles?",
+      "options": ["Barcelona", "AC Milan", "Liverpool", "Real Madrid"],
+      "answer": "Real Madrid",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the maximum duration of extra time in a football match?",
+      "options": ["10 minutes", "20 minutes", "30 minutes", "40 minutes"],
+      "answer": "30 minutes",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Who holds the record for the most goals scored in a single FIFA World Cup?",
+      "options": ["Just Fontaine", "Pele", "Miroslav Klose", "Gerd Muller"],
+      "answer": "Just Fontaine",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Which country hosted the first FIFA World Cup in 1930?",
+      "options": ["Uruguay", "Brazil", "Italy", "Argentina"],
+      "answer": "Uruguay",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the official length of a football match?",
+      "options": ["60 minutes", "90 minutes", "120 minutes", "150 minutes"],
+      "answer": "90 minutes",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Who was the first football player to win three FIFA World Cups?",
+      "options": ["Diego Maradona", "Zinedine Zidane", "Pele", "Franz Beckenbauer"],
+      "answer": "Pele",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which club is known as 'The Red Devils'?",
+      "options": ["Manchester United", "Liverpool", "Arsenal", "Chelsea"],
+      "answer": "Manchester United",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "In which year was the Premier League founded?",
+      "options": ["1990", "1992", "1994", "1996"],
+      "answer": "1992",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Who holds the record for the fastest goal in football history?",
+      "options": ["Hakan Şükür", "Cristiano Ronaldo", "Lionel Messi", "Neymar"],
+      "answer": "Hakan Şükür",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which country has won the most FIFA World Cups?",
+      "options": ["Italy", "Brazil", "Germany", "Argentina"],
+      "answer": "Brazil",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Who is the top scorer in UEFA Champions League history?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Robert Lewandowski", "Raul"],
+      "answer": "Cristiano Ronaldo",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which player scored the 'Hand of God' goal in the 1986 World Cup?",
+      "options": ["Diego Maradona", "Pele", "Zico", "Michel Platini"],
+      "answer": "Diego Maradona",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which football club is nicknamed 'La Vecchia Signora'?",
+      "options": ["Juventus", "Inter Milan", "AC Milan", "Roma"],
+      "answer": "Juventus",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is the diameter of a standard football?",
+      "options": ["21-22 cm", "22-23 cm", "23-24 cm", "24-25 cm"],
+      "answer": "22-23 cm",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Who won the Ballon d'Or in 1995, becoming the first African player to win it?",
+      "options": ["George Weah", "Roger Milla", "Samuel Eto'o", "Didier Drogba"],
+      "answer": "George Weah",
+      "difficulty": "Hard"
+    },
+    {
+        "question": "Which player has won the most UEFA Champions League titles?",
+        "options": ["Cristiano Ronaldo", "Lionel Messi", "Paco Gento", "Zinedine Zidane"],
+        "answer": "Paco Gento",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "Who was the top scorer of the 2022/23 UEFA Champions League season?",
+        "options": ["Erling Haaland", "Kylian Mbappé", "Karim Benzema", "Mohamed Salah"],
+        "answer": "Erling Haaland",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which player scored the fastest goal in UEFA Champions League history?",
+        "options": ["Roy Makaay", "Cristiano Ronaldo", "Robert Lewandowski", "Lionel Messi"],
+        "answer": "Roy Makaay",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Who is the youngest player to score in a UEFA Champions League final?",
+        "options": ["Kylian Mbappé", "Karim Benzema", "Patrick Kluivert", "Erling Haaland"],
+        "answer": "Patrick Kluivert",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "Which club does Jude Bellingham currently play for in the 2023/24 season?",
+        "options": ["Real Madrid", "Manchester City", "Liverpool", "Borussia Dortmund"],
+        "answer": "Real Madrid",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Who holds the record for the most goals scored in a single UEFA Champions League season?",
+        "options": ["Cristiano Ronaldo", "Robert Lewandowski", "Lionel Messi", "Erling Haaland"],
+        "answer": "Cristiano Ronaldo",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which goalkeeper has the most clean sheets in UEFA Champions League history?",
+        "options": ["Gianluigi Buffon", "Iker Casillas", "Petr Čech", "Manuel Neuer"],
+        "answer": "Iker Casillas",
+        "difficulty": "Medium"
+    }
+
+  ]
+  
